@@ -9,12 +9,12 @@ import { useState } from "react";
 // import img4 from "../assets/1.jpg";
 
 const screenshots = [
-  { title: "Ecran Principal", emoji: "🏠", image: "/b.jpeg" },
-  { title: "Selectează Animalul", emoji: "🐾", image: "/c.jpeg" },
-  { title: "Găsește Habitatul", emoji: "🌍", image: "/d.jpeg" },
-  { title: "Salvează Animalul", emoji: "💚", image: "/e.jpeg" },
-  { title: "Felicitări!", emoji: "🎉", image: "/f.jpeg" },
-  { title: "Fișă Educativă", emoji: "📖", image: "/g.jpeg" },
+  { title: "Ecran Principal", emoji: "🏠", image: "/a.jpeg" },
+  { title: "Selectează Animalul", emoji: "🐾", image: "/b.jpeg" },
+  { title: "Găsește Habitatul", emoji: "🌍", image: "/c.jpeg" },
+  { title: "Salvează Animalul", emoji: "💚", image: "/d.jpeg" },
+  { title: "Felicitări!", emoji: "🎉", image: "/e.jpeg" },
+  { title: "Fișă Educativă", emoji: "📖", image: "/f.jpeg" },
 ];
 
 export function ScreenshotsSection() {
